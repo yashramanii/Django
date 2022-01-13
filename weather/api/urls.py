@@ -12,4 +12,5 @@ urlpatterns = [
     path('',index, name='index'),
     path('add',addition, name='add'),
     path('sub',addition, name='sub'),
+    path('div',addition, name='div'),
 ]
